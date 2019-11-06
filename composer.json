@@ -12,7 +12,7 @@
       "type": "package",
       "package": {
           "name": "andreuji/apigee_devportal_kickstart",
-          "version": "8.x",
+          "version": "1.0.0",
           "source": {
               "url": "https://github.com/andreuji/devportal-kickstart-project-composer.git",
               "type": "git",
@@ -28,7 +28,7 @@
     "composer/installers": "^1.2",
     "cweagans/composer-patches": "^1.6.5",
     "drupal-composer/drupal-scaffold": "^2.5",
-    "andreuji/apigee_devportal_kickstart": "8.x",
+    "andreuji/apigee_devportal_kickstart": "1.0.0",
     "drupal/apigee_m10n": "^1.0.0",
     "drupal/commerce": "^2.13",
     "php": "^7.1",
