@@ -7,6 +7,18 @@
     {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
+    },
+    {
+      "type": "package",
+      "package": {
+          "name": "andreuji/apigee_devportal_kickstart",
+          "version": "8.x",
+          "source": {
+              "url": "https://github.com/andreuji/devportal-kickstart-project-composer.git",
+              "type": "git",
+              "reference": "8.x"
+            }
+       }
     }
   ],
   "config": {
@@ -16,7 +28,7 @@
     "composer/installers": "^1.2",
     "cweagans/composer-patches": "^1.6.5",
     "drupal-composer/drupal-scaffold": "^2.5",
-    "apigee/apigee_devportal_kickstart": "8.x-1.5",
+    "andreuji/apigee_devportal_kickstart": "8.x",
     "drupal/apigee_m10n": "^1.0.0",
     "drupal/commerce": "^2.13",
     "php": "^7.1",
